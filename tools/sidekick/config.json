@@ -1,0 +1,5 @@
+{
+  "project": "Midas Storefront",
+  "editUrlLabel": "Document Authoring",
+  "editUrlPattern": "https://da.live/edit#/bv-jahnavi/midasstorefront{{pathname}}"
+}
